@@ -1,0 +1,13 @@
+pizza shop database - name of the pizza, how many pizza they ate, Price, Name of the person who ate
+school library - name of books, books you like counting books finding books match the books n
+Pet store - name of pet, name of the breeds,help you find an animal you like, adopt an animal
+sports-running exersize,making a diet,learning sports,
+data-saving game and apps,changing the name and link of the game or app 
+Cake Shop → flavor,price,size 
+data:vanilla,220 ruppes,1kg,
+theater:prices of tikets,price of popcorn,movie,type of movie
+data:$100,$150 for popcorn,avengers doomsday,marvel movie
+football team:players,time of match,score
+data:10 players per team,1:30 PM 3\5
+train station:what time it leaves,whos driving,speed amount of fuel
+data:5:00 sharp,shlok malik,48 mkh per hour,9kg of fu
